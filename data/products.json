@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "name": "Non-Woven Bags",
+      "image": "/images/products/non-woven.jpg",
+      "description": "Durable, reusable polypropylene shopping bags. Lightweight, breathable, and the eco-friendly alternative to plastic.",
+      "tag": "Best Seller",
+      "order": 1
+    },
+    {
+      "name": "Promotional Bags",
+      "image": "/images/products/promotional.jpg",
+      "description": "Carry your brand into every customer's hand. Custom printed totes designed to be used — and seen — daily.",
+      "tag": "Custom Branded",
+      "order": 2
+    },
+    {
+      "name": "Fabric Bags",
+      "image": "/images/products/fabric.jpg",
+      "description": "Premium cotton and canvas bags for retail, gifting and lifestyle brands. Built for repeat use.",
+      "tag": "Premium Quality",
+      "order": 3
+    },
+    {
+      "name": "Event Bags",
+      "image": "/images/products/event.jpg",
+      "description": "Conference totes, swag bags, welcome kits — produced fast and finished to a standard your attendees will remember.",
+      "tag": "Rapid Turnaround",
+      "order": 4
+    },
+    {
+      "name": "Shopping Bags",
+      "image": "/images/products/shopping.jpg",
+      "description": "Retail-ready bags in every size and style — for boutiques, supermarkets, pharmacies and chain stores.",
+      "tag": "Retail Ready",
+      "order": 5
+    },
+    {
+      "name": "Institutional Bags",
+      "image": "/images/products/institutional.jpg",
+      "description": "Schools, hospitals, government bodies — branded bags produced at scale with consistent quality and on-time delivery.",
+      "tag": "Bulk Production",
+      "order": 6
+    },
+    {
+      "name": "Rice Bags",
+      "image": "/images/products/rice.jpg",
+      "description": "Specialized rice and grain packaging — laminated, woven, printed and sized to industry standards.",
+      "tag": "Industrial Grade",
+      "order": 7
+    },
+    {
+      "name": "Paper Bags",
+      "image": "/images/products/paper.jpg",
+      "description": "Kraft, art-paper and luxury laminated paper bags — for retail, takeaway, gifting and high-end packaging.",
+      "tag": "100% Recyclable",
+      "order": 8
+    },
+    {
+      "name": "Polypropylene Bags",
+      "image": "/images/products/polypropylene.jpg",
+      "description": "Industrial-strength woven and laminated PP bags. The most popular thermoplastic — durable, water-resistant, printable.",
+      "tag": "Industrial Strength",
+      "order": 9
+    }
+  ]
+}

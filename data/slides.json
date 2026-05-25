@@ -1,0 +1,32 @@
+{
+  "slides": [
+    {
+      "image": "/images/slides/slide-1.jpg",
+      "title": "Bags that carry your brand",
+      "subtitle": "Non-woven, fabric, paper & polypropylene printing — on deadline, on budget.",
+      "cta_text": "Request a Quote",
+      "cta_link": "#contact"
+    },
+    {
+      "image": "/images/slides/slide-2.jpg",
+      "title": "Eco-friendly by design",
+      "subtitle": "Reusable, recyclable, responsibly sourced. Bags your customers love to use.",
+      "cta_text": "View Products",
+      "cta_link": "#products"
+    },
+    {
+      "image": "/images/slides/slide-3.jpg",
+      "title": "From concept to carry-home",
+      "subtitle": "End-to-end design, printing and bulk production under one roof.",
+      "cta_text": "Our Services",
+      "cta_link": "#services"
+    },
+    {
+      "image": "/images/slides/slide-4.jpg",
+      "title": "Trusted nationwide",
+      "subtitle": "Retailers, brands and institutions across Pakistan choose Graphics ADD.",
+      "cta_text": "About Us",
+      "cta_link": "#about"
+    }
+  ]
+}

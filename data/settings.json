@@ -1,0 +1,17 @@
+{
+  "site_name": "Graphics ADD",
+  "tagline": "Eco-Friendly Bag Manufacturing & Printing",
+  "phone_display": "+92 300 1234567",
+  "phone_link": "+923001234567",
+  "whatsapp_number": "923001234567",
+  "whatsapp_default_message": "Hi Graphics ADD, I'd like to ask about your bag printing services.",
+  "email": "info@dotpixel.pk",
+  "address": "Karachi, Pakistan",
+  "hours": "Mon – Sat · 9:00 AM – 7:00 PM PKT",
+  "formspree_endpoint": "https://formspree.io/f/YOUR_FORM_ID",
+  "stats": [
+    { "number": "15+", "label": "Years of craft" },
+    { "number": "2M+", "label": "Bags printed" },
+    { "number": "100%", "label": "Eco materials" }
+  ]
+}
